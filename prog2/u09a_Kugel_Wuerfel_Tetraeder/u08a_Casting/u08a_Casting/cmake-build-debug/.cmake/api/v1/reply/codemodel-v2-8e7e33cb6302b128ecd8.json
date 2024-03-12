@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "u08a_Casting",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "u08a_Casting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-u08a_Casting-Debug-ebf0619c7ef1b3e3b75e.json",
+					"name" : "u08a_Casting",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nhatlamluong/Projects/c_prog/Prog2/Exercises/u09a_Kugel_Wuerfel_Tetraeder/u08a_Casting/u08a_Casting/cmake-build-debug",
+		"source" : "/home/nhatlamluong/Projects/c_prog/Prog2/Exercises/u09a_Kugel_Wuerfel_Tetraeder/u08a_Casting/u08a_Casting"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

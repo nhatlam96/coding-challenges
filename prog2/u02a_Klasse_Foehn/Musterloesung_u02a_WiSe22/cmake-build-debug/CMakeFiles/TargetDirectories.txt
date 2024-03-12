@@ -1,0 +1,3 @@
+/home/nhatlamluong/Projects/c_prog/Prog2/Exercises/u02a_Klasse_Foehn/Musterloesung_u02a_WiSe22/cmake-build-debug/CMakeFiles/Musterloesung_u02a_WiSe22.dir
+/home/nhatlamluong/Projects/c_prog/Prog2/Exercises/u02a_Klasse_Foehn/Musterloesung_u02a_WiSe22/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nhatlamluong/Projects/c_prog/Prog2/Exercises/u02a_Klasse_Foehn/Musterloesung_u02a_WiSe22/cmake-build-debug/CMakeFiles/rebuild_cache.dir

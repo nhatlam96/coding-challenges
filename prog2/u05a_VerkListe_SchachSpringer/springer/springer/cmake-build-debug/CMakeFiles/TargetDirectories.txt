@@ -1,0 +1,3 @@
+/home/nhatlamluong/Projects/c_prog/Prog2/Exercises/u05a_VerkListe_SchachSpringer/springer/springer/cmake-build-debug/CMakeFiles/springer.dir
+/home/nhatlamluong/Projects/c_prog/Prog2/Exercises/u05a_VerkListe_SchachSpringer/springer/springer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nhatlamluong/Projects/c_prog/Prog2/Exercises/u05a_VerkListe_SchachSpringer/springer/springer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

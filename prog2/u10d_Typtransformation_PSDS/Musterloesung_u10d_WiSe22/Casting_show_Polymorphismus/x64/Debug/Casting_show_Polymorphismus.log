@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\junio\Downloads\Casting_show_Polymorphismus\Casting_show_Polymorphismus\main.cpp(13,13): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+  Casting_show_Polymorphismus.vcxproj -> C:\Users\junio\Downloads\Casting_show_Polymorphismus\x64\Debug\Casting_show_Polymorphismus.exe

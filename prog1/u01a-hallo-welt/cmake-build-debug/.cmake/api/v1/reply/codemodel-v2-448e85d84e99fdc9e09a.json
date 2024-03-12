@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "u01a_hallo_welt",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "u01a_hallo_welt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-u01a_hallo_welt-Debug-96f08594a7a8da3dedbc.json",
+					"name" : "u01a_hallo_welt",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nhatlamluong/Projects/c_prog/Prog1/Exercises/u01a-hallo-welt/cmake-build-debug",
+		"source" : "/home/nhatlamluong/Projects/c_prog/Prog1/Exercises/u01a-hallo-welt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

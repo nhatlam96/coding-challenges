@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Musterloesung_u02a_WiSe22",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Musterloesung_u02a_WiSe22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Musterloesung_u02a_WiSe22-Debug-14c342d041c4f64678ec.json",
+					"name" : "Musterloesung_u02a_WiSe22",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nhatlamluong/Projects/c_prog/Prog2/Exercises/u02a_Klasse_Foehn/Musterloesung_u02a_WiSe22/cmake-build-debug",
+		"source" : "/home/nhatlamluong/Projects/c_prog/Prog2/Exercises/u02a_Klasse_Foehn/Musterloesung_u02a_WiSe22"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
